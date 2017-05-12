@@ -1,27 +1,11 @@
 <?php
 /*
 Plugin Name: Exclude Pages from Navigation
-Plugin URI: http://wordpress.org/extend/plugins/exclude-pages/
+Plugin URI: https://github.com/cubetech/wpplugin.exclude-pages
 Description: Provides a checkbox on the editing page which you can check to exclude pages from the primary navigation. IMPORTANT NOTE: This will remove the pages from any "consumer" side page listings, which may not be limited to your page navigation listings.
-Version: 1.92
-Author: Simon Wheatley
-Author URI: http://simonwheatley.co.uk/wordpress/
-
-Copyright 2007 Simon Wheatley
-
-This script is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 3 of the License, or
-(at your option) any later version.
-
-This script is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
+Version: 1.93
+Author: cubetech (originally Simon Wheatley)
+Author URI: https://www.cubetech.ch/
 */
 
 // Full filesystem path to this dir
