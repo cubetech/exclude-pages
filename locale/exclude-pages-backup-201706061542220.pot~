@@ -37,6 +37,9 @@ msgstr ""
 
 #: exclude_pages.php:239
 #, php-format
+msgctxt ""
+"This page can still appear in explicitly created <a href=\"%1$s\">menus</a> "
+"(<a id=\"ep_toggle_more\" href=\"#ep_explain_more\">explain more</a>)"
 msgid ""
 "N.B. This page can still appear in explicitly created <a href=\"%1$s\">"
 "menus</a> (<a id=\"ep_toggle_more\" href=\"#ep_explain_more\">explain "

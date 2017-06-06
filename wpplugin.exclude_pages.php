@@ -251,7 +251,7 @@ function ep_admin_sidebar_wp25()
     if (ep_has_menu()) {
         echo '<p id="ep_custom_menu_alert"><em>';
         if (current_user_can('edit_theme_options')) {
-            printf(__('N.B. This page can still appear in explicitly created <a href="%1$s">menus</a> (<a id="ep_toggle_more" href="#ep_explain_more">explain more</a>)', EP_TD),
+            printf(__('N.B. This page can still appear in explicitly created menus (<a id="ep_toggle_more" href="#ep_explain_more">explain more</a>)', EP_TD),
                 "nav-menus.php");
         } else {
             _e('N.B. This page can still appear in explicitly created menus (<a id="ep_toggle_more" href="#ep_explain_more">explain more</a>)', EP_TD);
